@@ -1,0 +1,291 @@
+
+==============================
+Department of CSE
+==============================
+
+1	Dr. Y. Jayababu	Ph.D	Professor
+2	Dr.M.Radhika Mani	Ph.D	Professor
+3	Dr. Y V Ram Kumar	Ph.D	Professor
+4	Dr.D. V Manjula	Ph.D	Assoc. Prof & HOD
+5	Dr.Sreepada  Sarada	Ph.D	Assoc. Prof
+6	Dr.S.Suresh	Ph.D	Assoc. Prof
+7	Mr.M.Raja Kumar	M.Tech (Ph.D)	Assoc. Prof
+8	Mr.K.Chandra Sekhar	M.Tech (Ph.D)	Asst. Prof
+9	Mr.Y.Manas Kumar	M.Tech (Ph.D)	Asst. Prof
+10	Mr.G.Vijaya Kumar	M.Tech (Ph.D)	Asst. Prof
+11	Mrs.D.Uma	M.Tech (Ph.D)	Asst. Prof
+12	Mr.A.Avinash	M.Tech (Ph.D)	Asst. Prof
+13	Mr.S K Sankar	M.Tech (Ph.D)	Asst. Prof
+14	Mrs.P.Lakshmi Satya	M.Tech (Ph.D)	Asst. Prof
+15	Ms.A.Harini	M.Tech	Asst. Prof
+16	Mrs.K.Ganga Devi Bhavani	M.Tech	Asst. Prof
+17	Mrs.S.Surya Sri	M.Tech	Asst. Prof
+18	Mr.KVV Subba Rao	M.Tech	Asst. Prof
+19	Mrs.T.N.V Durga	M.Tech	Asst. Prof
+20	Ms.M.Uma Devi	M.Tech	Asst. Prof
+21	Mrs.T.Satya Aruna	M.Tech	Asst. Prof
+22	Mrs.K.Sham Sri	M.Tech	Asst. Prof
+23	Mr.Sayanthan Kar	M.Tech	Asst. Prof
+24	Mr.V.Prem Kumar	M.Tech	Asst. Prof
+25	Mrs.M.Saranya	M.Tech	Asst. Prof
+26	Mrs.N.Durga Deepti Priya	M.Tech	Asst. Prof
+27	Ms.G.Naga Rani	M.Tech	Asst. Prof
+28	Mr.Ch.Manikanta Kalyan	M.Tech	Asst. Prof
+29	Mr.Y.Srikar	M.Tech	Asst. Prof
+30	Ms.MD.Apsar Jaha	M.Tech	Asst. Prof
+31	Mrs.D.Kanaka Mahalakshmi Devi	M.Tech	Asst. Prof
+
+==============================
+Department of ECE
+==============================
+
+1. Dr. G. Raghuram Ph.D Director-Academics
+2. Dr.V.Sailaja Ph.D Professor
+3. Dr.Subodh Kumar Panda Ph.D Professor
+4. Dr.A.Srinivas Ph.D Associate Professor
+5. Dr U Sateeswaran Ph.D Associate Professor
+6. Dr.V.Radhika Ph.D Associate Professor
+7. Dr.P.Sowjanya Ph.D Associate Professor
+8. Dr M.Siva Kumar Ph.D Associate Professor
+9. Dr.Sharon Rose Victor.J Ph.D Associate Professor
+10. Dr.Ch.Venkateswarlu Ph.D Assistant Professor
+11. Mr.V.Prasanth M.Tech(Ph.D) Associate Professor
+12. Mr.G.S.Sivakumar M.Tech Associate Professor
+13. Mrs.B.Vasantha Lakshmi M.Tech(Ph.D) Associate Professor
+14. Mr.Ch.Satish M.Tech Assistant Professor
+15. Mrs.L.Gaviramma M.Tech(Ph.D) Assistant Professor
+16. Mr.M.Ravikumar M.Tech Assistant Professor
+17. Ms.Rubia Tasneem M.Tech Assistant Professor
+18. Mrs.D.V.V.Lakshmi M.Tech Assistant Professor
+19. Mrs K Deepthi M.Tech Assistant Professor
+20. Mrs.P.Ramya Krishna M.Tech Assistant Professor
+21. Ms.P Anuradha M.Tech Assistant Professor
+22. Mrs.B.Ramya Banu M.Tech(Ph.D) Assistant Professor
+23. Mr.T.Sekhar M.Tech(Ph.D) Assistant Professor
+24. Mr.M.Brahma Raju M.Tech Assistant Professor
+25. Mr.K.V.S.Akhil M.Tech Assistant Professor
+26. Mr.B.KalyanCharavarthy M.Tech Assistant Professor
+27. Mr.G.Raju M.Tech Assistant Professor
+28. Ms.G.Viranya M.Tech Assistant Professor
+29. Mr.K.Rambabu M.Tech Assistant Professor
+30. Mr.B.Manibabu M.Tech Assistant Professor
+31. Ms.S.Vaishnavi M.Tech Assistant Professor
+32. Mrs.B.Suryasudha rani M.Tech Assistant Professor
+33. Mr V.Sattibabu M.Tech Assistant Professor
+34. Mr T.Deepak M.Tech Assistant Professor
+35. Mr John Saida Shaik M.Tech Assistant Professor
+36. Ms.P.Viswa Santhi M.Tech Assistant Professor
+37. Mrs M Geetha M Tech Assistant Professor
+38. Mr.B.Gandhi M Tech Assistant Professor
+39. Mrs. T.Subhasri M Tech Assistant Professor
+40. Mrs.N.Lakshmi Kalyani M Tech Assistant Professor
+41. Mr.P.Sri Suresh M Tech Assistant Professor
+42. Mr.Vijay Kumar Yalla M Tech Assistant Professor
+43. Mrs.Indiga Jyothi Priyanka M Tech Assistant Professor
+44. Mrs.Gorla Amulya Priyanka M Tech Assistant Professor
+45. Mrs.D.Divya M Tech Assistant Professor
+46. Mr.Boda T S S Srihari Krishna Gopal M Tech Assistant Professor
+47. Mr N.Swami Dattatreyachari M Tech Assistant Professor
+48. Mr.P.Ravi Sankar M Tech Assistant Professor
+49. Mrs.Aswini Devi.T M Tech Assistant Professor
+50. Mr.P.Appala Raju M Tech Assistant Professor
+51. Mrs.S.Jyothi M Tech Assistant Professor
+52. Ms.D.Rajeswari M Tech Assistant Professor
+53. Ms.K. Lakshmi Prasanthi M Tech Assistant Professor
+54. Mrs.K. Dharma Ratnam M Tech Assistant Professor
+55. Mr R Naveen Kumar M Tech Assistant Professor
+56. Mrs. Mohammed Ansarjaha M Tech Assistant Professor
+57. Mr.Rishi Tej. Ch M Tech Assistant Professor
+58. Mr.K T K Mohan M Tech Assistant Professor
+
+==============================
+Department of EEE
+==============================
+
+1	Dr. K. SATYANARAYANA	M.Tech., Ph.D.	PROFESSOR & DIRECTOR OF ACADEMICS
+2	Dr. G. NARESH	M.Tech., Ph.D.	PROFESSOR & PRINCIPAL
+3	Mr. K.V. DURGA PRASAD	M.Tech.( Ph.D.)	ASSISTANT PROFESSOR& HOD
+4	Mrs. CH.V.V. MANGA LAKSHMI	M.Tech.	ASSOCIATE PROFESSOR
+5	Mr. S. ASHOK REDDY	M.Tech.	ASSISTANT PROFESSOR
+6	Mr. M. VEERA CHANDRA KUMAR	M.Tech.	ASSISTANT PROFESSOR
+7	Mrs. G. DURGA DEVI	M.Tech.	ASSISTANT PROFESSOR
+8	Mrs. M. MANGA LAKSHMI	M.Tech.	ASSISTANT PROFESSOR
+9	Mrs.V.R.V.S. SAI VALLI	M.Tech.	ASSISTANT PROFESSOR
+10	Ms. P. SANDHYA	M.Tech.	ASSISTANT PROFESSOR
+11	Mr. D. PRAKASA RAO	M.Tech.	ASSISTANT PROFESSOR
+12	Mr. K. NAGAVARDHAN REDDY	M.Tech.	ASSISTANT PROFESSOR
+13	Mr. SK. MUBEEN	M.Tech.	ASSISTANT PROFESSOR
+14	Mr. S. SWARNA BHARGAVI	M.Tech.	ASSISTANT PROFESSOR
+15	Mr. M. VEERA BABU	M.Tech.	ASSISTANT PROFESSOR
+16	Ms. P. VARALAKSHMI	M.Tech.	ASSISTANT PROFESSOR
+17	Mr. S. NANI BABU	M.Tech.	ASSISTANT PROFESSOR
+18	Mr. M. RAVI KUMAR	M.Tech.	ASSISTANT PROFESSOR
+19	Mrs. K. DEVI	M.Tech.	ASSISTANT PROFESSOR
+20	Mrs.P.PUSHPA LATHA	M.Tech	ASSISTANT PROFESSOR
+21	Ms.M.CHANDHINI	M.Tech	ASSISTANT PROFESSOR
+22	Mr. V. GOPI	M.Tech	ASSISTANT PROFESSOR
+23	Mrs.D.SANDHYARANI	M.Tech	ASSISTANT PROFESSOR
+24	Mr. P.V.V.RAMANA	M.Tech	ASSISTANT PROFESSOR
+25	Mrs.G.SANTHOSHI BHANUSRI	M.Tech	ASSISTANT PROFESSOR
+
+==============================
+Department of MECH
+==============================
+
+1	Dr. G. Avinash	M.Tech., Ph.D	Assoc. Prof & HOD
+2	Dr. P. Vinod Kumar Naidu	M.Tech., Ph.D	Asst. Prof
+3	Mr. M. Sunil Raj	M.Tech	Assoc. Prof
+4	Mr. N. Raghuveer	M.Tech	Asst. Prof
+5	Mr. V.V.N. Sarath	M.Tech (Ph.D)	Asst. Prof
+6	Mrs. B. Anusha Srikanta	M.Tech	Assoc. Prof
+7	Mr. P. Ram Prasad	M.Tech	Asst. Prof
+8	Mr. A. Phani Bhaskar	M.Tech	Asst. Prof
+9	Mrs. P. Gayathri	M.Tech	Asst. Prof
+10	Mrs. U. Chaitanya Vardhini	M.Tech	Asst. Prof
+11	Mr. A. Yeswanth	M.Tech (Ph.D)	Asst. Prof
+12	Mr. M. V. V. Siva Krishna	M.Tech	Asst. Prof
+13	Mrs. B. Siva Naga Ramya	M.Tech	Asst. Prof
+14	Mrs. K. Tulasi	M.Tech	Asst. Prof
+15	Mr. P. Chinna	M.Tech	Asst. Prof
+16	Mr. K. Anil Kumar	M.Tech	Asst. Prof
+17	Mr. M. Anil Kumar	M.Tech	Asst. Prof
+18	Mr. B. Bharath Kumar	M.Tech (Ph.D)	Asst. Prof
+19	Mr. M. Vinil	M.Tech	Asst. Prof
+20	Mrs. B. Kranthi	M.Tech	Asst. Prof
+21	Mr. Ch. Sai Mohan Reddy	M.Tech	Asst. Prof
+22	Mr. Ch. Satya Prakash	M.Tech	Asst. Prof
+23	Mrs. G. B. T. S. Alekhya	M.Tech	 Asst. Prof
+24	Mr. K. Simon Rupas	M.Tech	 Asst. Prof
+25	Mr. T. Harish	M.Tech	Asst. Prof
+
+==============================
+Department of CIVIL
+==============================
+
+1 Dr. K. Saroja Rani Ph.D HOD & Associate Professor
+2 Dr. M.Sri Lakshmi Ph.D Assistant Professor
+3 Mrs. Velamakayala Tanuja M.Tech Assistant Professor
+4 Mrs. Anupoju Lakshmi Prasanna M.Tech Assistant Professor
+5 Mr. Veluru Sai Giridhar Reddy M.Tech Assistant Professor
+6 Mr. Majeti Meghanadh M.Tech Assistant Professor
+7 Mr. Nagam Raghavendra M.Tech Assistant Professor
+8 Mr. D.V.Durga Prasad M.Tech Assistant Professor
+9 Mr. B.Harish M.Tech Assistant Professor
+10 Mrs. K.Sudeepa M.Tech Assistant Professor
+11 Mr. L.Praveen Kumar M.Tech Assistant Professor
+12 Mr.B.Sri Datta Subramanyam M.Tech Assistant Professor
+13 Mr. A.Kalyan M.Tech Assistant Professor
+14 Ms. A.Ganga Nagini M.Tech Assistant Professor
+15 Mr.P.Jagadeswara Reddy M.Tech Assistant Professor
+16 Mr. B.Sai Ramesh M.Tech Assistant Professor
+17 Mr. B.Sri Kalyan M.Tech Assistant Professor
+18 Mr. Ch.Syam Kumar M.Tech Assistant Professor
+
+==============================
+Department of AIML
+==============================
+
+1.	Dr. A. Radha Krishna	Ph.D	HOD & Professor
+2.	Mrs. V.Anantha Lakshmi	M.Tech, (Ph.D)	Asst. Prof
+3.	Mr. A. Janardhana Rao	M.Tech, (Ph.D)	Asst. Prof
+4.	Mrs. L. Yamuna	M.Tech	Asst. Prof
+5.	Mr. Y. Ravi Bhushan	M.Tech	Asst. Prof
+6.	Mrs. T. Sankaramma	M.Tech	Asst. Prof
+7.	Mrs. G. V .Rajeswari	M.Tech	Asst. Prof
+8.	Mrs. G. Tejasri Devi	M.Tech	Asst. Prof
+9.	Mrs. P. Satyavathi	M.Tech	Asst. Prof
+10.	Mrs. M. Mani Deepika	M.Tech	Asst. Prof
+11.	Mrs. R. Veera Meenakshi	M.Tech	Asst. Prof
+12.	Mrs. A .Srujana Jyothi	M.Tech	Asst. Prof
+13.	Mr. N. V. S. Gopalam	M.Tech	Asst. Prof
+14.	Mrs. K.S.R.Manjusha	M.Tech	Asst. Prof
+
+==============================
+Department of DS
+==============================
+
+1	Mr. M. V. Rajesh	M.Tech., (Ph.D)	HOD & Assoc. Prof
+2	Mrs. N.V.S. Sowjanya	M.Tech	Asst. Prof
+3	Mr. K. Srikanth	M.Tech	Asst. Prof
+4	Mrs. K. Harika	M.Tech	Asst. Prof
+5	Mrs. CH. Veera Gayathri	M.Tech	Asst. Prof
+6	Mrs. A. Daiva Krupa Nirmala	M.Tech	Asst. Prof
+7	Mrs. D. Chakra Satya Tulasi	M.Tech	Asst. Prof
+8	Ms. Y. Suma Chamundeswari	M.Tech	Asst. Prof
+9	Mrs. V. Suvarna	M.Tech	Asst. Prof
+10	Mr. B. Janu Naik	M.Tech	Asst. Prof
+11	Mrs. N. Nikhitha	M.Tech	Asst. Prof
+12	Mr. V. Hemanth Sai	M.Tech	Asst. Prof
+13	Mrs. K. Tulya Sree Simla	M.Tech	Asst. Prof
+
+==============================
+Department of AI
+==============================
+
+1	Mrs. K. Lakshmi Viveka	M.Tech., (Ph.D)	HOD & Assoc. Prof
+2	Mrs. T. Tejasvi	M.Tech., (Ph.D)	Asst. Prof
+3	Mr. M Veera Babu	M.Tech	Asst. Prof
+4	Mrs. M Madhuri	M.Tech	Asst. Prof
+5	Ms.S Vijaya Durga	M.Tech	Asst. Prof
+6	Mr. S V S S Kumar	M.Tech	Asst. Prof
+7	Mr. D Ramesh	M.Tech., (PhD)	Asst. Prof
+8	Mr. T Jagadeesh	M.Tech	Asst. Prof
+9	Mrs. P Seshu Kumari	M.Tech	Asst. Prof
+10	Mr. P Krishna Chaitnya	M.Tech	Asst. Prof
+11	Mrs. P D Sravanthi	M.Tech	Asst. Prof
+
+==============================
+Department of CS
+==============================
+
+1 Mrs. T Ganga Bhavani M.Tech., (Ph.D.) Assistant Professor & HOD-CS
+2 Mrs. K Sireesha M.Tech. Assistant Professor
+3 Mr. M Manishankar M.Tech. Assistant Professor
+4 Mrs. P S H R  Padmaja M.Tech. Assistant Professor
+5 Mrs. P  Kavitha M.Tech. Assistant Professor
+6 Ms. G Harika M.Tech. Assistant Professor
+
+
+==============================
+CDC Team​
+==============================
+
+1	Dr. M. Radhika Mani	Dean – Career Development Centre
+2	Mr. P. Nagendra Rao	Manager – Corporate Relations
+3	Mr. Ch. Satish	Faculty – Aptitude
+4	Mr. P. Prasad Babu	Faculty – Aptitude
+5	Mr. D. Hanumantha Rao	Faculty – Aptitude
+6	Mrs. M. Madhavi	Faculty – Soft Skills
+7	Dr. P.C. Viswanath	Faculty – Soft Skills
+8	Mr. G.V. Ratnam	Faculty – Soft Skills
+9	Mrs. K.V. Sirisha Devi	D.T.P. Operator
+
+==============================
+The Principal (Chairman)
+============================== 
+Dr. G. Naresh
+
+==============================
+All the Heads of Departments in the College	
+==============================
+
+1.     Dr. B. Satyanarayana           HOD – CE
+2.     Dr. G. Avinash                     HOD – ME
+3.     Dr. D. V. Manjula                HOD – CSE
+4.     Dr. V. Prasanth                     HOD – ECE
+5.     Dr. A. Radha Krishna           HOD –CSE(AIML)
+6.     Sri. M V Rajesh                    HOD – CSE (DS)
+7.     Smt. K. Lakshmi Viveka                       HOD – CSE (AI)
+8.     Sri. G Satya Mohan Chowdary              HOD – IT
+9.     Smt. T Ganga Bhavani         HOD – CSE(CS)
+10.    Sri. K V Durga Prasad          HOD – EEE
+11.    Sri. P R S Phaneendra           HOD – BS&H
+
+==============================
+Teachers of the college representing different categories of teaching staff by rotation on the basis of seniority of service in the college	 
+==============================
+
+1.     Dr. K. Satyanarayana, Director (Academics)
+2.     Dr. Y. Jayababu, Controller of Examinations.
+3.      Mr.A.Avinash, Assistant Professor of CSE
+4.     Mrs. V.Anantha Lakshmi, Assistant Professor of CSE (AI&ML)

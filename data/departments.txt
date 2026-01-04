@@ -1,0 +1,27 @@
+==============================
+Departments at Pragati Engineering College
+==============================
+
+The college offers the following undergraduate and postgraduate programs:
+
+Department of Computer Science and Engineering
+
+Department of Electronics and Communication Engineering
+
+Department of Electrical and Electronics Engineering
+
+Department of Mechanical Engineering
+
+Department of Civil Engineering
+
+Department of Information Technology
+
+Department of Artificial Intelligence and Machine Learning 
+
+Department of Data Science
+
+Department of Artificial Intelligence
+
+Department of Cybersecurity 
+
+Department of Basic Sciences and Humanities

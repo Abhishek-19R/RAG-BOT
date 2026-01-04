@@ -1,0 +1,57 @@
+============================== Placements at Pragati Engineering College ============================== 
+S.No.	Name of the Company	No of Selections	CTC(in lakhs)
+1	AutoDesk	2	40.00
+2	Servicenow	2	34.50
+3	Amazon	11	30.00
+4	BigWorks	3	29.00
+5	GE VERNOVA	2	16.20
+6	Akrivia HCM	1	14.00
+7	Flipkart	3	13.52
+8	IBM	3	11.00
+9	Demandbase	1	10.00
+10	ThoughtSpot India Private Limited	1	9.00
+11	TCS	55	3.45 – 9
+12	INRY	5	8.54
+13	Verizon	4	8.32
+14	HP	2	8.00
+15	SOTI	1	7.50
+16	DeltaX	2	7.00
+17	HCLTech	51	6.00
+18	Reavture	4	3.5 – 6.0
+19	Interviewbuddy	4	3.6 to 6
+20	TechMahindra	267	5.50
+21	Efftronics	6	3.5 – 5.3
+22	Team Computers	1	5.04
+23	Advarra	1	5.00
+24	Infosys	110	3.6 – 4.45
+25	Deloitte USI	41	4.50
+26	Cyient	1	4.20
+27	Rane Group	11	4.00
+28	Movate	5	3.75
+29	Milekal	3	3.6 – 4.8
+30	BeamX Tech Labs Pvt Ltd	1	3.60
+31	Cadsys	24	3.50
+32	Wipro	25	3.50
+33	Wilco Source Technologies	2	3.50
+34	Savantis	104	3.5
+35	KYB Motorcycle Suspension India Pvt Ltd	135	2.68-3.23
+36	UltraTech	2	3.20
+37	PowerMech	51	3.00
+38	QhTalbros	86	3.00
+39	Schneider Electric India Pvt Ltd	116	3.00
+40	Vtiger	1	2.76
+41	Vertex Group	3	2.64
+42	NF Forging India Pvt Ltd	19	2.40
+43	Ovation Services Pvt Ltd	8	2.16
+44	Techwave	16	2.16
+45	Besten Engineers & Consultant India Pvt Ltd	7	2.10
+46	Polyfit Fabricators Pvt Ltd	6	2.10
+47	TVS	39	2.04
+48	Aviato Consulting Pvt Ltd.	1	2.00
+49	Pattabhi Agro Foods Pvt Ltd	10	2.00
+50	Sri Gopikrishna Infrastructure Pvt Ltd	1	2.00
+51	Skillforge	88	4.86
+52	TopperRank	161	4 to 6
+53	Amazon	1	3.20
+54	Cognizant	115	4.00
+ 	Total	1625	 
