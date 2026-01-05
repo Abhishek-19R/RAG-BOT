@@ -1,6 +1,5 @@
-sentence-transformers
-faiss-cpu
 flask
-google-generativeai
+faiss-cpu
+google-genai
 python-dotenv
 gunicorn
