@@ -1,4 +1,5 @@
 flask
+flask-cors
 faiss-cpu
 google-genai
 python-dotenv
